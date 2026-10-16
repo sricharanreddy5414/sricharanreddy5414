@@ -24,7 +24,7 @@ I am the founder of Craftflix, and I am building toward cloud and software engin
 | Role | Founder |
 | Company | Craftflix |
 | Description | Company building digital products and technology solutions. |
-| Website | Left empty |
+| Website | www.craftflux.co.in |
 
 The engineering linked below belongs to those repositories. It is not a published company site, product list, or launch.
 
@@ -88,13 +88,6 @@ Each line is tied to a repository. "Implemented" means the code or workflow is i
 | GitHub Actions | Implemented as workflows | ERA CI does not deploy. Traffic deploy jobs are gated |
 | Docs and workflow checks | Implemented in the repos | ERA CI also compiles Python, checks packages, and scans for secrets |
 
-### Cybersecurity and Research
-
-| Item | Level | Where |
-| --- | --- | --- |
-| Cognito and role checks | Implemented in ERA code | Roles `MEMBER`, `OPERATOR`, `ADMIN`, `OWNER`. Tenant isolation is not established |
-| SYNAPSE-CRS | Research-stage only | No repository and no implementation |
-| Threat-hunting prototype | Public fork | Isolation Forest and advisory alerts. Personal commits were not established. Not autonomous defense |
 
 ## Featured projects
 
@@ -254,21 +247,6 @@ The current tree has 25 `def test_` functions: 8 in `test_tasks.py`, 7 in `test_
 
 The project README also documents a development-stage stack in `eu-north-1`. That note was not re-checked. Local code and a SAM template are not a live stack. No API hostname is listed.
 
-## Cybersecurity research
-
-### SYNAPSE-CRS
-
-**SYNAPSE-CRS — Autonomous Cyber Reasoning and Real-Time Runtime Defense Platform.**
-
-Research-stage initiative. No public repository, product, customers, metrics, or live demo were found. No project document was found, so this profile does not draw a pipeline.
-
-| Layer | What is supported |
-| --- | --- |
-| Implemented work | None found under this name |
-| Prototype | None found under this name |
-| Research objectives | Evidence-driven security analysis, vulnerability defense, runtime protection, and controlled automation. Objectives only |
-| Plans | No public roadmap |
-| Limit | No autonomous defense, zero-day prevention, or real-time blocking is claimed |
 
 ### College prototype
 
