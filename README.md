@@ -269,8 +269,8 @@ The traffic dashboard and the threat-hunting README are college projects. The ER
 | | |
 | --- | --- |
 | GitHub | [github.com/sricharanreddy5414](https://github.com/sricharanreddy5414) |
-| Email | sricharanreddy9105@gmail.com, pending mailbox verification |
-| LinkedIn | [sri-charan-reddy-5490ba324](https://www.linkedin.com/in/sri-charan-reddy-5490ba324), pending browser verification |
+| Email | sricharanreddy9105@gmail.com,  |
+| LinkedIn | [sri-charan-reddy-5490ba324](https://www.linkedin.com/in/sri-charan-reddy-5490ba324), |
 
 The email address is listed for contact. This page does not claim the mailbox works. A previous request to the LinkedIn URL returned HTTP 999 and did not open the page. Please do not send passwords, access keys, or tokens. No company website is listed.
 
