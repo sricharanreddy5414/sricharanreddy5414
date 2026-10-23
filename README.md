@@ -15,14 +15,14 @@
 
 I am the founder of Craftflux, and I am building toward cloud and software engineering. The public systems I can point to are ERA, the Emergency Resource Allocation Platform, an Azure traffic dashboard, and a Python task API inside a portfolio repository. SYNAPSE-CRS is a separate research and product initiative, not a verified working platform.
 
-## Building Craftflix
+## Building Craftflux
 
 **Company building digital products and technology solutions.**
 
 | | |
 | --- | --- |
 | Role | Founder |
-| Company | Craftflix |
+| Company | Craftflux |
 | Description | Company building digital products and technology solutions. |
 | Website | www.craftflux.co.in |
 
