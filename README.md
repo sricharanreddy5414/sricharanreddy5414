@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="SIRIVELLA SRI CHARAN REDDY, founder at Craftflix" width="100%">
+  <img src="./banner.png" alt="SIRIVELLA SRI CHARAN REDDY, founder at Craftflux" width="100%">
 </p>
 
 # SIRIVELLA SRI CHARAN REDDY
@@ -13,8 +13,7 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
-I am the founder of Craftflux, and I am building toward cloud and software engineering. The public systems I can point to are ERA, the Emergency Resource Allocation Platform, an Azure traffic dashboard, and a Python task API inside a portfolio repository. SYNAPSE-CRS is a separate research and product initiative, not a verified working platform.
-
+I am the founder of Craftflux, and I am building toward cloud and software engineering. The public systems I can point to are ERA, the Emergency Resource Allocation Platform, an Azure traffic dashboard, and a Python task API inside a portfolio repository. 
 ## Building Craftflux
 
 **Company building digital products and technology solutions.**
