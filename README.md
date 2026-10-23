@@ -4,7 +4,7 @@
 
 # SIRIVELLA SRI CHARAN REDDY
 
-**Founder of Craftflix. Aspiring cloud and software engineer.**
+**Founder of Craftflux. Aspiring cloud and software engineer.**
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -13,7 +13,7 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
-I am the founder of Craftflix, and I am building toward cloud and software engineering. The public systems I can point to are ERA, the Emergency Resource Allocation Platform, an Azure traffic dashboard, and a Python task API inside a portfolio repository. SYNAPSE-CRS is a separate research and product initiative, not a verified working platform.
+I am the founder of Craftflux, and I am building toward cloud and software engineering. The public systems I can point to are ERA, the Emergency Resource Allocation Platform, an Azure traffic dashboard, and a Python task API inside a portfolio repository. SYNAPSE-CRS is a separate research and product initiative, not a verified working platform.
 
 ## Building Craftflix
 
